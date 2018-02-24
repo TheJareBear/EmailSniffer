@@ -1,2 +1,2 @@
 # EmailSniffer
-A simple python script to grab some emails
+A simple python script to grab some email addresses
